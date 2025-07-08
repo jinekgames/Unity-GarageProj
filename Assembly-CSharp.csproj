@@ -89,6 +89,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\My_Shaders\LitDataExt_RoughnessAndAlphaMap.hlsl" />
+    <None Include="Assets\My_Shaders\LitPropertiesExt.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\My_Pipelines\FrameBufferVert.hlsl" />
     <None Include="Assets\My_Models\asphalt-tiles\tiles_0081_keywords.txt" />
